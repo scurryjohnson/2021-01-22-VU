@@ -179,9 +179,9 @@ This will help people find your website if they come to your repository's home p
 
 ### Update the content of the README file
 
-You can change the `README.md` file in your website's repository, which contains these instructions,
-so that it contains a short description of your workshop and a link to the workshop website.
+Data Carpentries Worskhop Vanderbilt University Spring 2021
 
+https://github.com/scurryjohnson/2021-01-22-VU/
 
 ## Additional Notes
 
